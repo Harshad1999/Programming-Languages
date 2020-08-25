@@ -32,3 +32,7 @@ A repository to get you started with Programming in the languages suited for you
 - https://www.youtube.com/watch?v=qvf2FMtJPZY&list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ
 - https://www.geeksforgeeks.org/java-how-to-start-learning-java/
 
+## 6. Swift(For IOS Development)
+- https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
+- https://www.youtube.com/watch?v=comQ1-x2a1Q
+- https://www.youtube.com/watch?v=Ulp1Kimblg0
