@@ -1,22 +1,34 @@
 # Programming-Languages
 A repository to get you started with Programming in the languages suited for you
 
-## 1.Golang
-- https://tour.golang.org/
+
+## 1. Python
+- https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+- https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+- https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME
+
+## 2. Golang
+- https://www.youtube.com/watch?v=75lJDVT1h0s&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q
+- https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX
+- https://www.youtube.com/watch?v=mbW0oQq5NLQ&list=PL5tcWHG-UPH0jOCtEIpDNpbwOnhc6h9Om
 - https://www.tutorialspoint.com/go/index.htm
-- https://gobyexample.com/
-- https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html
 
-## 2.Python
-- https://docs.python.org/3/tutorial/
-- https://www.learnpython.org/
+## 3. C
+- https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
+- https://www.youtube.com/watch?v=ZSPZob_1TOk&t=124s
+- https://www.youtube.com/watch?v=wKoGImLA2KA&list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C
+- https://www.youtube.com/watch?v=EMEvheCVhMk&list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW
 
-## 3.C++
-- https://www.learncpp.com/
+## 4. C++
+- https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83
+- https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL
+- https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
 - http://www.cplusplus.com/doc/tutorial/
 - https://www.tutorialspoint.com/cplusplus/index.htm
 
-## 4.Java
-- https://docs.oracle.com/en/java/javase/11/
+## 5. Java
+- https://www.youtube.com/watch?v=r59xYe3Vyks&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al
+- https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK
+- https://www.youtube.com/watch?v=qvf2FMtJPZY&list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ
 - https://www.geeksforgeeks.org/java-how-to-start-learning-java/
-- https://www.javatpoint.com/java-tutorial
+
