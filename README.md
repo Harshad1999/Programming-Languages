@@ -5,7 +5,7 @@ A repository to get you started with Programming in the languages suited for you
 - https://tour.golang.org/
 - https://www.tutorialspoint.com/go/index.html
 - https://gobyexample.com/
-- https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html
+- https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.htm
 
 ## 2.Python
 - https://docs.python.org/3/tutorial/
