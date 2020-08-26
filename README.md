@@ -36,3 +36,7 @@ A repository to get you started with Programming in the languages suited for you
 - https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 - https://www.youtube.com/watch?v=comQ1-x2a1Q
 - https://www.youtube.com/watch?v=Ulp1Kimblg0
+
+## 7. JavaScript 
+- https://www.youtube.com/playlist?list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP
+
