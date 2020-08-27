@@ -50,8 +50,4 @@ A repository to get you started with Programming in the languages suited for you
 - [JavaScript DOM Crash Course by Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 - [JavaScript Fundamentals For Beginners by Traversy Media](https://www.youtube.com/watch?v=vEROU2XtPR8)
 - [JavaScript Tutorial For Beginners by The Net Ninja](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
-- [Modern JavaScript Tutorial by Net Ninja](https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
-
--[JavaScript ES6 Tutorial by The Net Ninja](https://www.youtube.com/watch?v=0Mp2kwE8xY0)
-
--[Object Oriented JavaScript by The Net Ninja](https://www.youtube.com/watch?v=4l3bTDlT6ZI)
+- [Modern JavaScript Tutorial by Net Ninja](https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc) -[JavaScript ES6 Tutorial by The Net Ninja](https://www.youtube.com/watch?v=0Mp2kwE8xY0) -[Object Oriented JavaScript by The Net Ninja](https://www.youtube.com/watch?v=4l3bTDlT6ZI)
