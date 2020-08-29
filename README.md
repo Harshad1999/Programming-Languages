@@ -53,4 +53,4 @@ A repository to get you started with Programming in the languages suited for you
 - [Modern JavaScript Tutorial by Net Ninja](https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 - [JavaScript ES6 Tutorial by The Net Ninja](https://www.youtube.com/watch?v=0Mp2kwE8xY0)
 - [Object Oriented JavaScript by The Net Ninja](https://www.youtube.com/watch?v=4l3bTDlT6ZI)
-- [You don't know js (book)](https://github.com/getify/You-Dont-Know-JS
+- [You don't know js (book)](https://github.com/getify/You-Dont-Know-JS)
