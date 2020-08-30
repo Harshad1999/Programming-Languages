@@ -46,7 +46,7 @@ A repository to get you started with Programming in the languages suited for you
 ## 7. JavaScript
 
 - [JavaScript Tutorials In Hindi by CodeWithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)
-- [JavaScript by Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP)
+- [JavaScript by Hitesh Choudhary Old](https://www.youtube.com/playlist?list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP) & [JavaScript by Hitesh Choudhary Latest](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) 
 - [JavaScript DOM Crash Course by Traversy Media](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 - [JavaScript Fundamentals For Beginners by Traversy Media](https://www.youtube.com/watch?v=vEROU2XtPR8)
 - [JavaScript Tutorial For Beginners by The Net Ninja](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
