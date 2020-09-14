@@ -7,6 +7,7 @@ A repository to get you started with Programming in the languages suited for you
 - [Python Tutorial for Beginners By Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 - [Python Programming by Telusko](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 - [Python Tutorials in Hindi by CodeWithHarry](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+- [Python Tutorials by Programming with Mosh](https://youtu.be/_uQrJ0TkZlc)
 
 ## 2. Golang
 
@@ -36,6 +37,7 @@ A repository to get you started with Programming in the languages suited for you
 - [Java Tutorial For Beginners by Telusko](https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
 - [Java Tutorial For Beginners by Edureka](https://www.youtube.com/watch?v=qvf2FMtJPZY&list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ)
 - [Java by GeeksforGeeks](https://www.geeksforgeeks.org/java-how-to-start-learning-java/)
+- [Java Tutorials by Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 
 ## 6. Swift(For IOS Development)
 
@@ -54,3 +56,4 @@ A repository to get you started with Programming in the languages suited for you
 - [JavaScript ES6 Tutorial by The Net Ninja](https://www.youtube.com/watch?v=0Mp2kwE8xY0)
 - [Object Oriented JavaScript by The Net Ninja](https://www.youtube.com/watch?v=4l3bTDlT6ZI)
 - [You don't know js (book)](https://github.com/getify/You-Dont-Know-JS)
+- [JavaScript Tutorials by Programming with Mosh](https://youtu.be/upDLs1sn7g4)
