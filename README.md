@@ -58,7 +58,7 @@ A repository to get you started with Programming in the languages suited for you
 - [You don't know js (book)](https://github.com/getify/You-Dont-Know-JS)
 - [JavaScript Tutorials by Programming with Mosh](https://youtu.be/upDLs1sn7g4)
 
-## 6. Dart(For Flutter)
+## 6. Dart
 
 - [DartPad](https://dartpad.dartlang.org/)
 - [Dart Tutorials for Beginners(smartherd)](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
