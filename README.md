@@ -57,3 +57,9 @@ A repository to get you started with Programming in the languages suited for you
 - [Object Oriented JavaScript by The Net Ninja](https://www.youtube.com/watch?v=4l3bTDlT6ZI)
 - [You don't know js (book)](https://github.com/getify/You-Dont-Know-JS)
 - [JavaScript Tutorials by Programming with Mosh](https://youtu.be/upDLs1sn7g4)
+
+## 6. Dart(For Flutter)
+
+- [DartPad](https://dartpad.dartlang.org/)
+- [Dart Tutorials for Beginners(smartherd)](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
+- [Dart in 2 hrs (freecodecamp)](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&t=2318s)
